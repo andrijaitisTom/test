@@ -1,5 +1,5 @@
 {
-    "name": "spectrocoin/word-press-woo-commerce-bitcoin-payment-gateway-plugin",
+    "name": "sc_woocomerce/word-press-woo-commerce-bitcoin-payment-gateway-plugin",
     "type": "wordpress-plugin",
     "require": {
         "composer/installers": "^1.10"
