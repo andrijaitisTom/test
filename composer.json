@@ -1,7 +1,6 @@
 {
      "name": "sc_woocomerce/word-press-woo-commerce-bitcoin-payment-gateway-plugin",
     "type": "wordpress-plugin",
-    "type": "wordpress-plugin",
     "description": "SpectroCoin cryptocurrency payment gateway for Wordpress Woocommerce",
     "version": "1.0.0",
     "keywords": [
