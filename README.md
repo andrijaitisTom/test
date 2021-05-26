@@ -11,8 +11,7 @@ To succesfully use this plugin, you have to have a SpectroCoin Bitcoin wallet. Y
   Navigate to WordPress directory and run:
       <br />
     	Public key:
-    ```composer require spectrocoin/woocommerce-merchant
-    ```
+    `composer require spectrocoin/woocommerce-merchant`
 	<br />
 3. Generate private and public keys
 	1. Automatically<br />
